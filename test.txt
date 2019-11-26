@@ -13,3 +13,5 @@ Term associated with Github is "Repository" or "Repo" means we create a new proj
  Adding the branches.
  
  Merging the master and another branch.
+ 
+ Adding pull request to another project. Add fork to my original account.
