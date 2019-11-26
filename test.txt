@@ -1,2 +1,10 @@
 I am just testing my git accoount.
-I am trying to learn git.
+I am trying to learn git.]
+I learn what is Git and Github.
+Git is a version control and "collaboration" i.e., it keep track of history of my project and many people work together in the same project. That means it is a version control software.
+Github is a web service or webserver means code run in the background.
+
+Term associated with Github is "Repository" or "Repo" means we create a new project files here .
+ "commit" meands save and after that each commit has a hash code.
+ 
+ we are in the middle and we want to learn the git concept through github interface and later see how the concept locally transfer to my computer.
